@@ -13,7 +13,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
   - [Author](#author)
-  - [Acknowledgments](#acknowledgments)
 
 ---
 
@@ -31,15 +30,14 @@ Thanks for reading this :D
 
 ### Screenshot
 
-![](./images/rafael_final_solution.png)
-
+My Final Design![My Final Design](./images/rafael_final_solution.png)
 
 ---
 
 ### Links
 
 - Github | Solution URL: [Add solution URL here](https://github.com/Rafaelbpm/frontendmentor-qr-code)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://rafa-qr-code.netlify.app/)
 
 ---
 
@@ -75,16 +73,6 @@ Thanks for reading this :D
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
 ---
 
 ### Continued development
@@ -100,8 +88,9 @@ Areas that I need to improve and practice more:
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- Kevin Powell [Hosting my site with Netlify](https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw) - Kevin is one of the best YouTuber's out there. In this particular project, he helped me to understand how to deploy my website on Netlify.
+
+- Youtube Channel - [Dev World](https://www.youtube.com/channel/UCrm-HTaESqxJXyxMcZFOHng) For helping with Git, Github and Branches.
 
 ---
 
@@ -113,7 +102,3 @@ Areas that I need to improve and practice more:
 - Behance - [Rafael Martins](https://www.behance.net/rafaelBPM)
 
 ---
-
-## Acknowledgments
-
-- Youtube Channel - [Dev World](https://www.youtube.com/channel/UCrm-HTaESqxJXyxMcZFOHng) For helping with Git, Github and Branches.
